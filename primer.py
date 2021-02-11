@@ -1,3 +1,2 @@
 #Primer fichero
-
 print("hola")
